@@ -54,5 +54,9 @@ scores.updateValue(4, forKey: "Paris")
 scores['Paris']!
 
 // tuples
+var point = (x:10, y:15)
+// point.x = 10
 
+point = (50, 10)
+// point.0 = 50
 
